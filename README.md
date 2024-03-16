@@ -31,11 +31,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![macOS](https://img.shields.io/badge/-macos-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
 
- 
-### Other Knowledge:
-![PHOTOSHOP](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=photoshop5&labelColor=0D1117)&nbsp;
-![COREL_DRAW](https://img.shields.io/badge/-corel_draw-0D1117?style=for-the-badge&logo=corel_draw5&labelColor=0D1117)&nbsp;
-
   
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
